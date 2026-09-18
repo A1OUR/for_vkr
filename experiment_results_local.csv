@@ -1,0 +1,4 @@
+Model,Accuracy,Macro-F1,Invalid%,AvgLatency_ms,P95Latency_ms
+Llama-3.2-3B,0.7825,0.7748,0.2,875.5,1019.3
+Qwen2.5-1.5B,0.7406,0.7357,0.0,415.9,475.6
+SmolLM2-1.7B,0.6842,0.6226,0.5,522.9,548.0
