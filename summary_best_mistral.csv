@@ -1,0 +1,4 @@
+mode,accuracy,macro_f1,mcc,invalid_rate,lat_avg,lat_p95,cost_total
+text,0.7067,0.6859,0.5852,0.0,0.438,1.024,0.6306
+image,0.84,0.8354,0.7728,0.0,0.768,1.228,2.3993
+multimodal,0.8533,0.8466,0.7956,0.0,0.727,1.054,2.5853

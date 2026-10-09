@@ -1,0 +1,10 @@
+model,mode,accuracy,macro_f1,mcc,invalid_rate,lat_avg,lat_p95,cost_total
+openai/gpt-6-luna,text,0.8667,0.8597,0.8133,0.0,1.277,2.151,0.0787
+openai/gpt-6-luna,image,0.8,0.7892,0.7217,0.0,1.415,1.853,0.2574
+openai/gpt-6-luna,multimodal,0.7867,0.7752,0.7083,0.0,1.42,2.105,0.2798
+deepseek/deepseek-v4.1-flash,text,0.8667,0.8597,0.8138,0.0,0.908,1.157,0.1975
+deepseek/deepseek-v4.1-flash,image,0.7867,0.7791,0.7067,0.0,1.416,1.939,0.6394
+deepseek/deepseek-v4.1-flash,multimodal,0.84,0.8346,0.7791,0.0,1.323,1.616,0.6478
+mistralai/mistral-medium-3.1,text,0.6533,0.6248,0.5006,0.0,0.436,0.965,0.3119
+mistralai/mistral-medium-3.1,image,0.8133,0.8077,0.7451,0.0,0.764,1.268,1.148
+mistralai/mistral-medium-3.1,multimodal,0.84,0.8308,0.7835,0.0,0.751,1.336,1.2069
